@@ -16,6 +16,6 @@ spawn(function()
 end)
 spawn(function()
     loadstring(game:HttpGet(
-        "https://raw.githubusercontent.com/memaybeohub/Function-Scripts/main/erth.lua"
+        "https://raw.githubusercontent.com/L0v31/key/main/iskey.lua"
     ))()
 end)
